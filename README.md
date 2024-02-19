@@ -1,4 +1,4 @@
-# CS50 Spring 2022, Lab 3
+# CS50 Spring 2022 Data Structures
 ## Dylan Lawler
 
 GitHub username: Dylan-Lawler
